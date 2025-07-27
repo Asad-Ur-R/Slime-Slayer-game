@@ -1,9 +1,9 @@
-# Knight Slayer Web Game 🎮
+# Slime Slayer Web Game 🎮
 
 A 2D platformer made using Godot and exported for the web.
 
 👉 [Play the Game](https://yourusername.github.io/my-godot-game/)  
-📁 [Source Code](https://github.com/yourusername/my-godot-game)
+📁 [Source Code]([https://github.com/Asad-Ur-R/Slime-Slayer-game])
 
 ## Features
 - Built with Godot Engine
